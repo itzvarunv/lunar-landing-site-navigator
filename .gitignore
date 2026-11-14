@@ -1,0 +1,5 @@
+data/raw/
+__pycache__/
+*.part
+.DS_Store
+cache/TEST_REGION*
